@@ -1,0 +1,33 @@
+{
+  "0": {
+    "drinks": {
+      "beers": 5,
+      "wine": 2
+    },
+    "foods": {
+      "vegetarian": {
+        "eggplants": 1,
+        "mushrooms": 3
+      },
+      "meat_eaters": 2
+    }
+  },
+  "1": {
+    "drinks": {
+      "water": 3
+    },
+    "foods": {
+      "fish_lovers": 1,
+      "meat_lovers": 2
+    }
+  },
+  "6-packs-beers": 1,
+  "wine-bottles": 1,
+  "water-bottles": 1,
+  "eggplants": 3,
+  "mushrooms": 3,
+  "burgers": 2,
+  "sardines": 1,
+  "kebabs": 6,
+  "potatoes": 2
+}
